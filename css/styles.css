@@ -1,0 +1,9 @@
+.bidder-console {
+  display: none
+}
+.what{
+  background-image: url(../img/RTB-benefits-shutterstock_89154430.jpg);
+  background-size: 1200px 500px;
+  height: 450px;
+  color: green;
+}
