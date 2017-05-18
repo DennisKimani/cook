@@ -29,46 +29,31 @@ It is a **global** community where people from different parts of the globe can 
 
 2. **Exhibition :-** In this category you as an artist are able to showcase an item which you would want to sell. In this category still people are able to fight for an item which they really like by bidding for it at the cost which they are willing to reach for the particular item
 
-
-
 ## Contact information :
 
-
-
-<li><strong>Email at:-</strong> themarvelscreation@gmail.com or marvelscreation@gmail.com</li>
+- **Email at:-** themarvelscreation@gmail.com or marvelscreation@gmail.com
 <br>
-<li><strong>Call us at:-</strong> 0714422665 or 0720986532.</li>
-
-
+- **Call us at:-** 0714422665 or 0720986532.
 
 ## Acknowledgement:
-
-
-
-
 
 We as team marvel would like to appreciate all the people who were involved in making this project in anyway as it would not have being possible without you.
 
 <br>
 
-
-
-
-
 We would like to thank our Technical Mentor, Moses, for if it was not for the support which he had given unto us and the knowledge of how to make things which only our minds could imagine, come to life. We appreciate your guidance and support throughout.
 
 <br>
 
-
-
-
-
-We would also like to thank Moringa school for providing a favourable studying condition with the necessary resources required for better studying. Thank you for all your support throughout your projects.
+We would also like to thank Moringa School for providing a favourable studying condition with the necessary resources required for better studying. Thank you for all your support throughout your projects.
 
 <br>
 
 
-<h2>Copyright:-</h2>
-<p><strong>©Copyright 2017 Art Gallery.</strong><br>
+
+## Copyright:-
+
+
+
+**©Copyright 2017 Art Gallery.**<br>
 designed and developed by Team Marvel.
-</p>
