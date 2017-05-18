@@ -33,7 +33,8 @@ It is a **global** community where people from different parts of the globe can 
 
 - **Email at:-** themarvelscreation@gmail.com or marvelscreation@gmail.com
 <br>
-- **Call us at:-** 0714422665 or 0720986532.
+
+<li><strong>Call us at:-</strong> 0714422665 or 0720986532.</li>
 
 ## Acknowledgement:
 
